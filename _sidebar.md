@@ -46,7 +46,6 @@
   * [🛡️ Security Overview](Help/Security/README.md)
   * [👤 Identity Protection](Help/Security/identity-protection.md)
   * [🌐 Anonymous GitHub Setup](Help/Security/anonymous-github-setup.md)
-  * [📤 Secure Upload Portal](Help/Security/Temp-Security-Upload-Portal(Seat-02).md)
 
 ---
 
